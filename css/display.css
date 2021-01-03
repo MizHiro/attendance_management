@@ -1,0 +1,21 @@
+body {
+  background-image: url('../img/display_img.jpg');
+}
+
+div {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 30px;
+  text-align: center;
+  font-family: 'Langar', cursive;
+  font-size: 20px;
+}
+
+button {
+  padding: 10px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}

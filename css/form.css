@@ -1,0 +1,60 @@
+@media screen and (min-width: 530px) {
+  body {
+    width: 60%;
+    background-image: url("../img/media_L_img.jpg");
+  }
+  a {
+    padding: 7px;
+    border: solid 1px none;
+    border-radius: 20px;
+    background-color: rosybrown;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  body {
+    width: 90%;
+    background-image: url("../img/media_s_img.jpg");
+    color: #f0f8ff;
+  }
+  a {
+    padding: 7px;
+    border: solid 1px none;
+    border-radius: 20px;
+    background-color: lightyellow;
+    color: #717d7e;
+  }
+}
+
+body {
+  margin: 0 auto;
+}
+
+form {
+  border: solid 1px #ccc;
+  margin-top: 30px;
+  padding: 40px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 130px;
+  font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ' ,Meiryo, 'ＭＳ Ｐゴシック' ,sans-serif;
+}
+
+.send {
+  text-align: right;
+}
+
+button {
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}

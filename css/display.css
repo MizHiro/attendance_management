@@ -7,11 +7,16 @@ div {
   margin: 0 auto;
   padding-top: 30px;
   text-align: center;
-  font-family: 'Langar', cursive;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 20px;
 }
 
+input {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
 button {
+  font-family: 'Noto Sans JP', sans-serif;
   padding: 10px;
 }
 

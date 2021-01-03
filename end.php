@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- google font -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   
   <link rel="stylesheet" href="css/end.css">
   <title>最終ページ</title>
@@ -26,7 +26,7 @@
       $db->exec("INSERT INTO mng_table(YMD, nickname, which, reasons) VALUES('$YMD', '$nickname', '$which', '$reasons')");
   ?>
   <div>
-    <p><?php echo 'Succeeded！<br>Thank you.'; ?></p>
+    <p><?php echo 'Completed registration.<br>Thank you.'; ?></p>
     ☞<a href="form.php">Back</a>
   </div>
   <?php

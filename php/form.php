@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="css/form.css">
+  <link rel="stylesheet" href="../css/form.css">
   <title>入力フォーム</title>
 </head>
 <body>
@@ -41,7 +41,7 @@
       <a href="display.php">確認画面はコチラ</a>
     </div>
     <div>
-      <a href="change.php">予定の変更はコチラ</a>
+      <a href="change.php">予定の削除はコチラ</a>
     </div>
   </form>
 </body>

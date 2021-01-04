@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="css/end.css">
+  <link rel="stylesheet" href="../css/end.css">
   <title>最終ページ</title>
 </head>
 <body>

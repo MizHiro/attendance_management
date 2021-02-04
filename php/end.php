@@ -13,7 +13,7 @@
 <body>
   <?php
     try {
-      $db = new PDO('mysql:dbname=mngdb;host=localhost;port=8889;charset=utf8', 'root', 'root');
+      $db = new PDO('mysql:dbname=heroku_cabdf0eeed10b6a;host=us-cdbr-east-03.cleardb.com;charset=utf8', 'b57148e3fdc5ff', '1d1ac2b2');
       
       function escape($str) {
         return htmlspecialchars($str, ENT_QUOTES, 'UTF-8');

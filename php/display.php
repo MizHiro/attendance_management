@@ -25,7 +25,7 @@
     </form>
     <?php
       try {
-        $db = new PDO('mysql:dbname=mngdb;host=localhost;port=8889;charset=utf8', 'root', 'root');
+        $db = new PDO('mysql:dbname=heroku_cabdf0eeed10b6a;host=us-cdbr-east-03.cleardb.com;charset=utf8', 'b57148e3fdc5ff', '1d1ac2b2');
 
         $YMD = $_POST['date'];
         $display = $db->query("SELECT nickname, which, reasons FROM mng_table WHERE YMD='$YMD'");

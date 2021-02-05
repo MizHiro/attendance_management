@@ -22,7 +22,7 @@
         <input type="date" id="date" name="date" value="<?php echo date('Y-m-d'); ?>">
       </div>
       <div>
-        <button type="submit">変更</button>
+        <button type="submit">この日の予定を削除</button>
       </div>
     </form>
   </div>

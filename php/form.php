@@ -41,7 +41,7 @@
       <a href="display.php">確認画面はコチラ</a>
     </div>
     <div>
-      <a href="change.php">予定の削除はコチラ</a>
+      <a href="change.php">予定の変更（削除）はコチラ</a>
     </div>
   </form>
 </body>
